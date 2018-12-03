@@ -1,7 +1,18 @@
 package infiniteTerrainSimulator;
 
 public class GameMap {
-	int[][] gameGrid = new int[50][50];
+	String[][] gameGrid = new String[100][100];
+	private int j;
+	private int k;
+	public void addPointsOfInterest() {
+		
+	}
+	public int getxPosition() {
+
+			
+		}
+	}
 	
+	 
 
 } 
